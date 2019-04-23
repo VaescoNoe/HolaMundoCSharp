@@ -8,5 +8,16 @@ class Programa
         string i = Console.ReadLine();
         Console.WriteLine(i);
         Console.ReadLine();
+
+       // Esto es un Comentario
+
+        /*
+          Esto 
+          es 
+          un 
+          comentario 
+          multi 
+          Línea
+        */
     }
 }
